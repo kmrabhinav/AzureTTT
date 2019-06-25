@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Day3\AzureKeyVaultSample-VJ\AzureKeyVaultSample-VJ\obj\Release\Package\PackageTmp" />
+  <setAcl path="E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Day3\AzureKeyVaultSample-VJ\AzureKeyVaultSample-VJ\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Day3\AzureKeyVaultSample-VJ\AzureKeyVaultSample-VJ\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

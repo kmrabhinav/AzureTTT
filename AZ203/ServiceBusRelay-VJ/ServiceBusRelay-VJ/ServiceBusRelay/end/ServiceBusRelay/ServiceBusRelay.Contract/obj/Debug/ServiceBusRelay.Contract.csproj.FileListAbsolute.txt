@@ -1,0 +1,16 @@
+F:\20487\Allfiles\Mod07\DemoFiles\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.dll
+F:\20487\Allfiles\Mod07\DemoFiles\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.pdb
+F:\20487\Allfiles\Mod07\DemoFiles\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.dll
+F:\20487\Allfiles\Mod07\DemoFiles\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.pdb
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.dll
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.pdb
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csprojAssemblyReference.cache
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csproj.CoreCompileInputs.cache
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.dll
+E:\AZ-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.pdb
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.dll
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.pdb
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csprojAssemblyReference.cache
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csproj.CoreCompileInputs.cache
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.dll
+E:\AZ-203\AZ-203-Infosys_Pune\Demos_Az-203\Demos\ServiceBusRelay\ServiceBusRelay\end\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.pdb

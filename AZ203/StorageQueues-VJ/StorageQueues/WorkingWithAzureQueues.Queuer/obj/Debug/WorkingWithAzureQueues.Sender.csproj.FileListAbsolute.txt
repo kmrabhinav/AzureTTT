@@ -1,0 +1,79 @@
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe.config
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.dll
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.dll
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.dll
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.xml
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.xml
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.xml
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csprojResolveAssemblyReference.cache
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\Allfiles\Mod09\DemoFiles\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe.config
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.dll
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.dll
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.dll
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.xml
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.xml
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.xml
+D:\upload\Module 9\Book Demos\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csprojResolveAssemblyReference.cache
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe.config
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.pdb
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.dll
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.dll
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.dll
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.xml
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.xml
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.xml
+D:\upload\Module 9\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csprojResolveAssemblyReference.cache
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe.config
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.pdb
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csprojAssemblyReference.cache
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csproj.CoreCompileInputs.cache
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csproj.CopyComplete
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.exe
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.pdb
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe.config
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.exe
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\WorkingWithAzureQueues.Queuer.pdb
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.dll
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.Edm.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.Data.OData.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\bin\Debug\System.Spatial.xml
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csprojAssemblyReference.cache
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csproj.CoreCompileInputs.cache
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Sender.csproj.CopyComplete
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.exe
+E:\AZ-203\Demos\StorageQueues\WorkingWithAzureQueues.Queuer\obj\Debug\WorkingWithAzureQueues.Queuer.pdb

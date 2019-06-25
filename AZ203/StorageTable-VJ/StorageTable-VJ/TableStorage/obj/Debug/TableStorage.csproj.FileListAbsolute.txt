@@ -1,0 +1,279 @@
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\TableStorage.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\TableStorage.pdb
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\EntityFramework.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Spatial.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Http.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Providers.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Razor.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\WebGrease.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Spatial.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\EntityFramework.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Http.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.Razor.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\obj\Debug\TableStorage.csprojResolveAssemblyReference.cache
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+D:\Allfiles\Mod09\DemoFiles\TableStorage\TableStorage\obj\Debug\TableStorage.pdb
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\TableStorage.dll.config
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\TableStorage.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\TableStorage.pdb
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\EntityFramework.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Spatial.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Providers.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Razor.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\WebGrease.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Spatial.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\EntityFramework.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.Razor.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.csprojResolveAssemblyReference.cache
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+D:\upload\Module 9\Book Demos\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.pdb
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\TableStorage.dll.config
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\TableStorage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\TableStorage.pdb
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\EntityFramework.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Spatial.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Providers.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Razor.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\WebGrease.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Spatial.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\EntityFramework.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.Razor.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.csprojAssemblyReference.cache
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CoreCompileInputs.cache
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CopyComplete
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\TableStorage\TableStorage\TableStorage\obj\Debug\TableStorage.pdb
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\TableStorage.dll.config
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\TableStorage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\TableStorage.pdb
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\EntityFramework.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Spatial.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Http.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Providers.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Razor.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\WebGrease.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Spatial.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\EntityFramework.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Http.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.Razor.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\obj\Debug\TableStorage.csprojAssemblyReference.cache
+E:\AZ-203\Demos\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CoreCompileInputs.cache
+E:\AZ-203\Demos\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CopyComplete
+E:\AZ-203\Demos\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+E:\AZ-203\Demos\TableStorage\TableStorage\obj\Debug\TableStorage.pdb

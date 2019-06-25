@@ -1,0 +1,23 @@
+https://console.cloud.google.com/cloud-resource-manager
+https://console.firebase.google.com
+
+
+Project Number/GCM Sender ID 	: 423450311403
+
+API key/Server key		: AAAAYpea-us:APA91bFYWDBX2f-rb9JJuYpq0XAUDbfD6boOUKx20FKU4h6gxXbrdNxQP4VCk4YOUpFWRxJLywvpglJsB8K1yzjv6KwNmdZYmC-3J5cB_yc6UtZMMeBnoohcNzBiFQF7zkHSdU7knX
+
+DefaultFullSharedAccessSignature 
+
+DefaultListenSharedAccessSignature
+
+
+
+
+Google is moving from GCM (Google Cloud Messaging) to FCM (Firebase Cloud Messaging). According to Google they were supposed to be compatible. But Google has made some changes which cause the key generated at https://console.developers.google.com to not work.
+To work around this go through the following steps
+- Go to https://console.firebase.google.com and login with your google credentials
+- On the top right hand corner, click the triangle and select ‘Import Google Project’
+- Select your existing Google project and click ‘Add FireBase’
+- One import succeeds click on ‘Project Settings’ – gear icon on top left corner.
+- Now select ‘Cloud Messaging’ tab.
+- Now copy the ‘Server Key’ and use in notification portal. This should work.
